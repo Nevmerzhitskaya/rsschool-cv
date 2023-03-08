@@ -45,7 +45,6 @@ function tribonacci($signature, $n) {
 Senior Frontend Developer <br />
 IT Band Systems/Interactive Digital Systems <br />
 Frontend development (Angular, Wordpress, Flutter)<br />
-<https://petsi.app/> (Mobile and desktop version: redesign partly, add and fixed new functionality), <https://timboretro.com/>, <https://app.timboretro.com/> and others
 
 > **2013** <br />
 Senior Web Developer <br />
